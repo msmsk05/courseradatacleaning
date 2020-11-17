@@ -13,12 +13,12 @@ x_train, y_train, x_test, y_test, subject_train and subject_test contain the dat
 x_data, y_data and subject_data merge the previous datasets to further analysis.
 
 ## run_analysis.R code steps
-1.Merge the training and the test sets to create one data set.
+1.Merging the training and the test sets to create one data set.
 
-2. Extracting only the measurements on the mean and standard deviation for each measurement.
+2.Extracting only the measurements on the mean and standard deviation for each measurement.
 
-3. Using descriptive activity names to name the activities in the data set.
+3.Using descriptive activity names to name the activities in the data set.
 
-4. Labelling the data set with descriptive variable names.
+4.Labelling the data set with descriptive variable names.
 
-5. Writing tidy data set in txt file.
+5.Writing tidy data set in txt file.
